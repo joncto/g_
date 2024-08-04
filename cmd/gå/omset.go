@@ -159,5 +159,14 @@ func køyrOmset(argumenter ...string) {
 				continue
 			}
 		}
+
+		// Call skål function after processing all files
+		skål()
+	}
+}
+
+func skål() {
+	fmt.Println("Skål! Koden din kompilerte suksessfullt!")
+}
 	}
 }
