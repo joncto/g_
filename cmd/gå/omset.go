@@ -160,13 +160,13 @@ func køyrOmset(argumenter ...string) {
 			}
 		}
 
-		// Call skål function after processing all files
+		// rop skål høve etter vellukka behandling
 		skål()
 	}
 }
 
 func skål() {
-	fmt.Println("Skål! Koden din kompilerte suksessfullt!")
+	fmt.Println("Skål! Koden omsette vellukka!")
 }
 	}
 }
