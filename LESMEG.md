@@ -15,7 +15,7 @@ Innlegging
 
 Gå leggast inn med dette:
 
-	$ go get github.com/aude/g_/cmd/gå
+	$ go get github.com/joncto/g_/cmd/gå
 
 Høve
 ----
